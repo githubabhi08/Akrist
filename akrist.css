@@ -1,0 +1,180 @@
+.navbar-brand{
+    position: relative;
+    top: 50px;
+    color: rgb(250, 95, 118);
+    right: 20px;
+    font-size: 30px;
+    font-weight: 900;
+}
+.nav-item{
+    position: relative;
+    right: 100px;
+    font-family: cursive;
+   
+}
+.fg{
+    position: relative;
+    top: 20px;
+}
+.nav-link{
+    font-weight: 500;
+color: rgb(250, 95, 118);}
+.dropdown-menu{
+    font-weight: 500;
+    color: rgb(250, 95, 118);
+}
+.dropdown-item{
+    font-weight: 500;
+    color: rgb(250, 95, 118);
+}
+.jo{
+    font-weight: 500;
+color: rgb(250, 95, 118);
+}
+.carousel-item{
+    position: relative;
+    right: 300px;
+    height: 80vh;
+    width: 50%;
+}
+.mk{
+    background-color: white;
+}
+.kl{
+    background-color: rgb(250, 95, 118);
+    position: relative;
+    right: 90px;
+    box-shadow: 10px 10px 7px yellow;
+}
+.ab{
+    background-color: rgb(97, 137, 249);
+    position: relative;
+    right: 90px;
+    box-shadow: 10px 10px 7px yellow;
+}
+.cd{
+    
+    position: relative;
+    right: 90px;
+    box-shadow: 10px 10px 7px yellow;
+}
+.u{
+    color:rgb(250, 95, 118) ;
+    background-color: rgb(185, 3, 30);
+
+}
+.come{
+    background-color: rgb(250, 95, 118);
+    height: 70vh;
+    width: 100%;
+}
+.ft button{
+    position: relative;
+    top: 10px;
+    transition: all 1s;
+    border-radius: 27px;
+    background-color:red;
+    top: 14px;
+    font-family: cursive;
+    color: yellow;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    
+    
+}
+.ft button:hover{
+    background-color:aqua;
+    box-shadow: 0 0 7px yellow,
+    0 0 17px yellow,
+    0 0 37px yellow,
+    0 0 57px yellow;
+
+    
+    outline: none;
+   
+}
+.hu{
+    position: relative;
+    right: 70px;
+}
+.sk img:hover{
+    transform: rotateY(47deg);
+    transition: all 2s;
+}
+.sk img{
+    box-shadow: 10px 10px 7px pink;
+}
+.me{
+    position: relative;
+    top: 40px;
+}
+.im{
+    background-image: url("https://cdn.pixabay.com/photo/2019/09/22/08/15/woman-4495395__340.png");
+    position: relative;
+    left: 50px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.one{
+    position: relative;
+    height: 22vh;
+    width: 77px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    right: 7px;
+    padding-bottom: 1px;
+    
+    transition: all 2s;
+    box-shadow: 7px 7px 5px rgb(250, 95, 118);
+
+}
+.card-body img:hover{
+    transform: rotateY(30deg);
+}
+.fa{
+    position: relative;
+    right: 37px;
+    color: rgb(250, 95, 118);
+    font-family: cursive;
+    letter-spacing: 2px;
+}
+.an{
+    color: rgb(250, 95, 118);
+}
+    
+.cont{
+    background-color: rgb(250, 95, 118) ;
+}
+.mu{
+    position: relative;
+    top: 125px;
+    
+}
+.hi{
+    height: 200px;
+}
+.fm{
+    color: black;
+    position: relative;
+}
+.hii{
+        height: 37vh;
+        background-color: rgb(42, 129, 251);
+}
+.mo{
+    position: relative;
+    padding-right: 150px;
+    padding-top: 2rem;
+    font-weight: 990;
+}
+.boom{
+    font-size: 22px;
+    position: relative;
+    right: 25px;
+}
+
+.final{
+    position: relative;
+    left: 500px;
+    top: 7px;
+}
